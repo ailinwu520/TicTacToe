@@ -1,4 +1,4 @@
-# TicTacToe in Java
+# TicTacToe
 
 ## Project Description
 
